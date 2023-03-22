@@ -1,8 +1,8 @@
-ABOUT JULIUS MUIYORO
+ABOUT ME
 My name is Julis Muiyoro, 25 years old student.
 my interests are in programming, web development and designing
 
-I studied Information Technologyin Maseno University and then later studied at Moringa School I later joined Embu teaching and referal hospital for attachment
+I studied Information Technologyin Maseno University and then later studied at Moringa School.
 
 i decided to take on programming classes because i felt that back in campus i didnt really a clear picture or didnt get exposure to creating programs of which was my main goal when i studied information technology
 
